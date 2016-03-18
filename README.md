@@ -1,6 +1,8 @@
 #Mapping Paris' rent prices
 
 
+![Line 8 Rents Map](./img/line8.png "Prices along line 8")
+
 
 
 ##Data
