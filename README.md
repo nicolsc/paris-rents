@@ -36,9 +36,14 @@ Dependencies :
  
 ##Configure
 
-###API token
+###API token & endpoint
 
-You need to get your own [RentsWatch](http://rentswatch.com) API token, and create your config file as follow :
+You need to get your own [RentsWatch](http://rentswatch.com) API token, and set the following env vars :
+* API_ENDPOINT
+* API_TOKEN
+
+
+For local tests, you can create a config file as follow :
 
 ```
 module.exports = {
@@ -48,7 +53,9 @@ module.exports = {
 
 ```
 
-###Set your own PoIs
+The values will be added to the `process.env`
+
+###Set your own Point of Interests
 
 Update the `poi.js` to map your own point of interests  
 Change map's default center & zoom in `static/js/map.js`
