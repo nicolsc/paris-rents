@@ -1,0 +1,156 @@
+{
+ "places":[
+  {
+    "name":"Balard, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Lourmel, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Boucicaut, Paris",
+    "category": "Métro 8"
+  },
+   {
+    "name":"Métro Félix Faure, Paris",
+    "category": "Métro 8"
+  },
+   {
+    "name":"Commerce, Paris",
+    "category": "Métro 8"
+  },
+   {
+    "name":"La Motte Picquet, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Ecole Militaire, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Ecole Militaire, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Invalides, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Concorde, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Madeleine, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Opéra, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Richelieu-Drouot, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Grands Boulevards, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Bonne Nouvelle, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Strasbourg Saint-Denis, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Place de la République, Paris",
+    "category": "Métro 8"
+  },
+   {
+    "name":"Filles du Calvaire, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Saint-Sébastien-Froissart, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Chemin-Vert, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Bastille, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Ledru-Rollin, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Faidherbe-Chaligny, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Reuilly-Diderot, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Montgallet, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Daumesnil, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Michel-Bizot, Paris",
+    "category": "Métro 8"
+  },
+   {
+    "name":"Porte-Dorée, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Porte de Charenton, Paris",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Liberté, Charenton",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Charenton-Ecoles, Charenton",
+    "category": "Métro 8"
+  },
+  {
+    "name":"École vétérinaire de Maisons-Alfort, Maisons-Alfort",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Maisons-Alfort - Stade, Maisons-Alfort",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Maisons-Alfort - Les Juilliottes, Maisons-Alfort",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Créteil - L'Échat, Créteil",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Créteil - Université, Créteil",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Créteil - Préfecture, Créteil",
+    "category": "Métro 8"
+  },
+  {
+    "name":"Pointe du Lac, Créteil",
+    "category": "Métro 8"
+  }
+]
+}

@@ -1,0 +1,12 @@
+#map{
+  min-width:400px;
+  min-height:600px;
+  height:100%;
+  width: 100%;
+}
+
+td{
+  max-width: 200px;
+  white-space: nowrap;
+  overflow: scroll;
+}

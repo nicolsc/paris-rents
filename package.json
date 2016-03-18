@@ -1,0 +1,21 @@
+{
+  "name": "paris-rents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0",
+    "request-promise": "^2.0.1",
+    "stats-percentile": "^1.1.0",
+    "vision": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
